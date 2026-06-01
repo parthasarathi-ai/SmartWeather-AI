@@ -1,0 +1,7 @@
+fastapi==0.136.3
+uvicorn==0.46.0
+requests==2.33.1
+python-dotenv==1.2.2
+pandas==3.0.3
+reportlab==4.5.1
+pydantic==2.13.4
